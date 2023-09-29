@@ -1,4 +1,4 @@
-
+// This program substaniates the method deriPoly, which differentiates polynomials of a given degree and coefficent array, returning a string literal represenation of the differentiated polynomial.  
 import java.util.Scanner;
 public class Polynomials {
 	
