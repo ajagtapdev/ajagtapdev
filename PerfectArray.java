@@ -1,3 +1,5 @@
+// The PerfectArray game is an elaborate guessing game where the user tries to predict the amount of user-determined arrays that java will generate before it creates a "perfect" array (numOdds = numEvens).
+// The Mode game is a guessing game where the user tries to guess the mode of a previously user-determined array.
 import java.util.*;
 import java.util.Scanner;
 public class PerfectArray
