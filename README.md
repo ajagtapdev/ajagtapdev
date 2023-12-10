@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aarush Jagtap</h1>
 <h1 align="center">Hello, I am Aarush Jagtap</h1>
 <h3 align="center">Mathematics - Computer Science major @ UCSD</h3>
 
