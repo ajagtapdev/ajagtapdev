@@ -2,7 +2,7 @@
 <h3 align="center">Mathematics - Computer Science major @ UCSD</h3>
 
 - 🔭 I’m currently working on **Discord Chatbot in Python**
-- 🌱 I’m currently learning **MEAN framework**
+- 🌱 I’m currently learning **MERN framework**
 - 💬 Ask me about **Java Discord API**
 - 📫 How to reach me **ajagtap@ucsd.edu**
 <h3 align="left">Connect with me:</h3>
