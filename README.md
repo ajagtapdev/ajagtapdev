@@ -1,9 +1,8 @@
 <h1 align="center">Hello, I am Aarush Jagtap</h1>
-<h3 align="center">Mathematics - Computer Science major @ UCSD</h3>
+<h3 align="center">Machine Learning & Computer Science major @ UCSD</h3>
 
-- 🔭 I’m currently working on **AI frameworks**
+- 🔭 I’m currently working on **AI Projects**
 - 🌱 I’m currently learning **PyTorch**
-- 💬 Ask me about **Agile Methodologies**
 - 📫 How to reach me **ajagtap@ucsd.edu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
