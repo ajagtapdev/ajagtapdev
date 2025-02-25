@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌎 San Diego, CA | 📨 <a href="mailto:ajagtap@ucsd.edu">ajagtap@ucsd.edu</a> | 🌐 <a href="https://ajagtap.com/">ajagtap.com</a>
+  🌎 San Diego, CA | 📨 ajagtap [at] ucsd [dot] edu | 🌐 <a href="https://ajagtap.com/">ajagtap.com</a>
 </p>
 
 ---
