@@ -13,8 +13,8 @@
 
 
 ### 💡 What I'm Working On
-- 🛠 **AI & ML Research:** Enhancing LLM reliability using Hugging Face datasets to push the envelope on AI safety.
-- 🔬 **Computer Vision & Data Pipelines:** Optimizing object tracking models for Palantir AIP to improve real-time processing.
+- 🛠 **AI & ML Research:** Enhancing LLM reliability using Hugging Face datasets to improve LLM accuracy.
+- 🔬 **Computer Vision & Data Pipelines:** Optimizing object tracking models with Palantir AIP for trajectory prediction.
 - 📱 **Full-Stack AI Applications:** Developing cutting-edge apps that merge sleek front-end design with advanced machine learning.
 
 ---
