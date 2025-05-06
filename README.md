@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning & Computer Science @ UC San Diego</h3>
 
 <p align="center">
-  🚀 <b>Building AI-powered applications</b> | 🏆 <b>5x Hackathon Winner</b> | 🔬 <b>ML Researcher</b>
+  🚀 <b>Building AI-powered applications</b> | 🏆 <b>6x Hackathon Winner</b> | 🔬 <b>ML Researcher</b>
 </p>
 
 <p align="center">
