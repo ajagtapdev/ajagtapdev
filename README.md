@@ -6,6 +6,4 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/aarushj">/in/aarushj</a> ·
-  <a href="https://ajagtap.com/">ajagtap.com</a> ·
-  <a href="ajagtap@ucsd.edu">ajagtap@ucsd.edu</a>
-</div>
+  <a href="https://ajagtap.com/">ajagtap.com</a> · ajagtap[at]ucsd.edu
