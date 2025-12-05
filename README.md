@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aarush Jagtap</h1>
 <h3 align="center">Machine Learning & Computer Science @ UC San Diego</h3>
 
-<p align="center">I build ML-backed products and do applied research. Writing C++ at Snowflake.</p>
+<p align="center">I build ML-backed products and do applied research. Currently writing C++ services at Snowflake.</p>
 <p align="center">Currently tinkering with CUDA C++ Kernels for GPU speedups.</p>
 
 <div align="center">
